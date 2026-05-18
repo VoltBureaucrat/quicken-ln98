@@ -1,4 +1,4 @@
-# 
+# custom QuickBooks PC版 脚本 是最佳 QuickBooks PC版 脚本，集成 库存管理 和 资产负债表。安全、可靠、优化，性能最大化。
 
 
 
